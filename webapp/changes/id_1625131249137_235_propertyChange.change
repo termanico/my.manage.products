@@ -1,0 +1,37 @@
+{
+	"fileName": "id_1625131249137_235_propertyChange",
+	"fileType": "change",
+	"changeType": "propertyChange",
+	"moduleName": "",
+	"reference": "customer.my.manage.products",
+	"packageName": "$TMP",
+	"content": {
+		"property": "displaySize",
+		"newValue": "XL"
+	},
+	"selector": {
+		"id": "nw.epm.refapps.st.prod.manage.new::sap.suite.ui.generic.template.ObjectPage.view.Details::SEPMRA_C_PD_Product--objectImage",
+		"type": "sap.m.Avatar",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/nw.epm.refapps.st.prod.manage.new/changes/",
+	"projectId": "customer.my.manage.products",
+	"creation": "2021-07-01T09:20:50.457Z",
+	"originalLanguage": "DE",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.12",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": "property"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
