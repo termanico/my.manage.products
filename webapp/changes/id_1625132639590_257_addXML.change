@@ -1,0 +1,37 @@
+{
+	"fileName": "id_1625132639590_257_addXML",
+	"fileType": "change",
+	"changeType": "addXML",
+	"moduleName": "customer/my/manage/products/changes/fragments/shareButtonFragment.fragment.xml",
+	"reference": "customer.my.manage.products",
+	"packageName": "$TMP",
+	"content": {
+		"targetAggregation": "content",
+		"index": 5,
+		"fragmentPath": "fragments/shareButtonFragment.fragment.xml"
+	},
+	"selector": {
+		"id": "nw.epm.refapps.st.prod.manage.new::sap.suite.ui.generic.template.ListReport.view.ListReport::SEPMRA_C_PD_Product--template::ListReport::TableToolbar",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/nw.epm.refapps.st.prod.manage.new/changes/",
+	"projectId": "customer.my.manage.products",
+	"creation": "2021-07-01T09:44:00.125Z",
+	"originalLanguage": "DE",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.12",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": "addXML"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": true,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
